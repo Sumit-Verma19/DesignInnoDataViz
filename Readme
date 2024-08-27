@@ -4,25 +4,24 @@ This project provides an interactive data visualization dashboard to analyze and
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Data Overview](#data-overview)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation]
+- [Usage]
+- [Features]
+- [Data Overview]
+- [Contributing]
 
-## Installation
+Installation
 
 To get started with this project, you need Python installed. Then, follow the steps below to install the required packages.
 
-1. **Clone the Repository**
+1. Clone the Repository
 
    ```bash
    git clone https://github.com/yourusername/project-data-visualization.git
    cd project-data-visualization
    ```
 
-2. **Set Up a Virtual Environment**
+2. Set Up a Virtual Environment
 
    It's recommended to use a virtual environment:
 
@@ -31,7 +30,7 @@ To get started with this project, you need Python installed. Then, follow the st
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install Required Packages**
+3. Install Required Packages**
 
    Install the required packages using the `requirements.txt` file:
 
@@ -50,13 +49,13 @@ To get started with this project, you need Python installed. Then, follow the st
    bokeh
    ```
 
-## Usage
+Usage
 
-1. **Prepare Your Data**
+1. Prepare Your Data
 
    Ensure your `projects_data.csv` file is in the project directory. This file should contain relevant columns such as `Design Efficiency`, `Innovation Score`, `Cost Efficiency (%)`, and other relevant metrics.
 
-2. **Run the Panel Dashboard**
+2. Run the Panel Dashboard
 
    Start the dashboard using Panel:
 
@@ -66,24 +65,24 @@ To get started with this project, you need Python installed. Then, follow the st
 
    Replace `dashboard.py` with your script's filename.
 
-3. **Interact with the Dashboard**
+3. Interact with the Dashboard
 
    A browser window will open with the interactive dashboard. Use the dropdown menus to select and explore different visualizations focusing on Design Efficiency and Innovation.
 
-## Features
+Features
 
-- **Design Efficiency Analysis**: Visualize key metrics that affect design efficiency, such as project type, complexity levels, and software used.
-- **Innovation Score Analysis**: Explore how various factors like team size, design phase duration, and neighborhood influence innovation.
-- **Comparative Analysis**: Use scatter plots, joint plots, and heatmaps to compare design efficiency against innovation scores, cost efficiency, and client feedback.
-- **Interactive Controls**: Easily switch between different visualization categories and specific graphs for detailed analysis.
+- Design Efficiency Analysis**: Visualize key metrics that affect design efficiency, such as project type, complexity levels, and software used.
+- Innovation Score Analysis**: Explore how various factors like team size, design phase duration, and neighborhood influence innovation.
+- Comparative Analysis**: Use scatter plots, joint plots, and heatmaps to compare design efficiency against innovation scores, cost efficiency, and client feedback.
+- Interactive Controls**: Easily switch between different visualization categories and specific graphs for detailed analysis.
 
-## Data Overview
+Data Overview
 
-- **Design Efficiency**: Measures how effectively design resources are utilized. Key metrics include `Design Phase Duration (weeks)` and `Cost Efficiency (%)`.
-- **Innovation**: Evaluates the novelty and creativity in project execution. Key metrics include `Innovation Score`, `Sustainability Index`, and `Innovation per Revision`.
-- **Other Metrics**: `Client Feedback Score`, `Team Size`, and `Design Software Used` help provide a holistic view of project performance.
+- Design Efficiency: Measures how effectively design resources are utilized. Key metrics include `Design Phase Duration (weeks)` and `Cost Efficiency (%)`.
+- Innovation: Evaluates the novelty and creativity in project execution. Key metrics include `Innovation Score`, `Sustainability Index`, and `Innovation per Revision`.
+- Other Metrics: `Client Feedback Score`, `Team Size`, and `Design Software Used` help provide a holistic view of project performance.
 
-## Contributing
+Contributing
 
 We welcome contributions! Please follow the steps below to contribute:
 
