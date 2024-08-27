@@ -1,0 +1,85 @@
+Project ID,Project Name,Project Type,Design Phase Duration (weeks),Total Project Duration (weeks),Design Revision Count,Cost Efficiency (%),Innovation Score,Use of Sustainable Materials (%),Client Feedback Score,Design Complexity Level,Team Size,Design Software Used,Neighborhood,Use of Local Materials (%),Design-to-Total Duration Ratio,Sustainability Index,Innovation per Revision,Client Feedback Adjusted,Complexity to Team Ratio,Complexity and Duration Interaction,Neighborhood Impact
+P001,Urban Villas,Office,8.0,27.0,2.0,81.0,4.7,53.0,4.9,Medium,9.0,Vectorworks,Green Park,75.0,0.3,64.0,2.35,1.63,0.33,81.0,4.55
+P002,Modern Offices,Retail,6.0,33.0,7.0,75.0,4.7,50.0,4.9,Medium,10.0,Vectorworks,Saket,84.0,0.18,67.0,0.67,1.63,0.3,99.0,4.22
+P003,Urban Tower,Hospitality,10.0,27.0,7.0,75.0,3.7,53.0,4.1,High,9.0,SketchUp,Rajouri Garden,66.0,0.37,59.5,0.53,1.02,0.44,108.0,4.4
+P004,Eco Plaza,Office,8.0,40.0,6.0,94.0,4.3,50.0,3.5,Medium,11.0,Revit,Karol Bagh,72.0,0.2,61.0,0.72,1.17,0.27,120.0,4.17
+P005,Urban Tower,Cultural,4.0,35.0,7.0,87.0,4.5,63.0,4.9,High,7.0,AutoCAD,Rajouri Garden,72.61,0.11,67.805,0.64,1.23,0.57,140.0,4.4
+P006,Classic Plaza,Hospitality,10.0,32.0,3.0,83.0,4.8,70.0,4.1,Low,8.0,SketchUp,Saket,69.0,0.31,69.5,1.6,2.05,0.25,64.0,4.22
+P007,Skyline Complex,Hospitality,7.0,37.0,1.0,77.0,4.0,65.0,4.9,Low,6.0,ArchiCAD,Nehru Place,85.0,0.19,75.0,4.0,2.45,0.33,74.0,4.62
+P008,Classic Estates,Office,7.0,34.0,7.0,81.0,3.8,69.0,4.9,Low,12.0,SketchUp,Karol Bagh,66.0,0.21,67.5,0.54,2.45,0.17,68.0,4.17
+P009,Classic Plaza,Commercial,4.0,40.0,7.0,83.51,4.6,64.88,4.8,Low,7.0,SketchUp,Rajouri Garden,73.0,0.1,68.94,0.66,2.4,0.29,80.0,4.4
+P010,Green Homes,Cultural,7.0,32.0,4.29,82.0,4.7,57.0,4.35,High,8.55,Revit,Green Park,85.0,0.22,71.0,1.1,1.09,0.47,128.0,4.55
+P011,Urban Offices,Office,7.0,28.57,2.0,83.0,4.0,56.0,4.1,Medium,10.0,ArchiCAD,Hauz Khas,64.0,0.25,60.0,2.0,1.37,0.3,85.71,4.45
+P012,Skyline Homes,Cultural,5.0,34.0,4.0,79.0,3.6,52.0,4.8,Low,5.0,SketchUp,Lajpat Nagar,62.0,0.15,57.0,0.9,2.4,0.4,68.0,4.7
+P013,Modern Plaza,Cultural,5.0,32.0,5.0,75.0,4.34,66.0,4.0,Medium,9.0,AutoCAD,Hauz Khas,82.0,0.16,74.0,0.87,1.33,0.33,96.0,4.45
+P014,Classic Tower,Hospitality,4.0,20.0,3.0,93.0,4.34,50.0,3.8,High,10.0,AutoCAD,Saket,70.0,0.2,60.0,1.45,0.95,0.4,80.0,4.22
+P015,Luxury Estates,Retail,5.0,26.0,4.29,84.0,4.3,64.88,4.3,High,8.0,Vectorworks,Connaught Place,72.61,0.19,68.745,1.0,1.08,0.5,104.0,4.3
+P016,Luxury Estates,Cultural,8.0,28.0,7.0,86.0,4.8,61.0,4.9,High,9.0,ArchiCAD,Lajpat Nagar,77.0,0.29,69.0,0.69,1.23,0.44,112.0,4.7
+P017,Eco Tower,Institutional,5.0,20.0,1.0,89.0,4.5,76.0,4.5,Low,11.0,ArchiCAD,Rohini,74.0,0.25,75.0,4.5,2.25,0.18,40.0,4.04
+P018,Modern Villas,Hospitality,7.0,31.0,4.0,83.0,4.6,68.0,4.4,Medium,5.0,Vectorworks,Green Park,71.0,0.23,69.5,1.15,1.47,0.6,93.0,4.55
+P019,Skyline Villas,Commercial,7.0,27.0,5.0,94.0,3.8,71.0,3.6,Medium,10.0,SketchUp,Rohini,68.0,0.26,69.5,0.76,1.2,0.3,81.0,4.04
+P020,Classic Villas,Retail,10.0,30.0,4.0,91.0,4.3,72.0,4.4,Medium,10.0,ArchiCAD,Karol Bagh,69.0,0.33,70.5,1.08,1.47,0.3,90.0,4.17
+P021,Classic Tower,Institutional,7.0,28.57,6.0,83.51,4.5,71.0,5.0,High,10.0,AutoCAD,Lajpat Nagar,85.0,0.25,78.0,0.75,1.25,0.4,114.28,4.7
+P022,Urban Plaza,Institutional,10.0,36.0,5.0,94.0,3.8,63.0,3.7,Low,8.0,AutoCAD,Rohini,72.61,0.28,67.805,0.76,1.85,0.25,72.0,4.04
+P023,Green Villas,Commercial,7.0,27.0,7.0,86.0,3.8,79.0,4.35,High,9.0,Revit,Rohini,76.0,0.26,77.5,0.54,1.09,0.44,108.0,4.04
+P024,Eco Plaza,Retail,8.0,22.0,7.0,81.0,5.0,64.88,4.35,High,8.0,ArchiCAD,Rajouri Garden,65.0,0.36,64.94,0.71,1.09,0.5,88.0,4.4
+P025,Classic Plaza,Hospitality,10.0,22.0,4.29,76.0,4.3,55.0,4.35,Medium,12.0,SketchUp,Hauz Khas,66.0,0.45,60.5,1.0,1.45,0.25,66.0,4.45
+P026,Green Estates,Residential,6.0,20.0,7.0,77.0,3.9,62.0,4.35,High,6.0,Vectorworks,Rajouri Garden,73.0,0.3,67.5,0.56,1.09,0.67,80.0,4.4
+P027,Luxury Offices,Retail,9.0,24.0,3.0,91.0,4.34,68.0,4.6,Medium,6.0,Vectorworks,Lajpat Nagar,72.61,0.38,70.305,1.45,1.53,0.5,72.0,4.7
+P028,Modern Homes,Commercial,7.0,29.0,5.0,79.0,4.9,71.0,4.0,Low,12.0,SketchUp,Lajpat Nagar,67.0,0.24,69.0,0.98,2.0,0.17,58.0,4.7
+P029,Eco Plaza,Institutional,7.0,26.0,4.0,91.0,4.3,57.0,3.9,Medium,8.55,BIM 360,Saket,69.0,0.27,63.0,1.08,1.3,0.35,78.0,4.22
+P030,Luxury Homes,Hospitality,5.0,28.0,5.0,91.0,4.8,76.0,4.7,Low,11.0,Revit,Rajouri Garden,68.0,0.18,72.0,0.96,2.35,0.18,56.0,4.4
+P031,Modern Homes,Retail,7.0,26.0,7.0,83.51,3.8,76.0,4.7,Medium,8.0,Vectorworks,Vasant Kunj,72.61,0.27,74.305,0.54,1.57,0.38,78.0,4.7
+P032,Luxury Plaza,Residential,5.0,28.0,3.0,76.0,3.9,51.0,4.8,High,5.0,ArchiCAD,Hauz Khas,85.0,0.18,68.0,1.3,1.2,0.8,112.0,4.45
+P033,Eco Tower,Residential,7.0,27.0,3.0,76.0,4.6,70.0,4.9,High,10.0,Revit,Lajpat Nagar,61.0,0.26,65.5,1.53,1.23,0.4,108.0,4.7
+P034,Skyline Villas,Cultural,7.0,28.57,6.0,79.0,4.34,79.0,4.3,Low,10.0,ArchiCAD,Saket,72.61,0.25,75.805,0.72,2.15,0.2,57.14,4.22
+P035,Green Complex,Cultural,9.0,21.0,4.0,75.0,4.8,64.88,4.3,Low,9.0,AutoCAD,Rajouri Garden,64.0,0.43,64.44,1.2,2.15,0.22,42.0,4.4
+P036,Modern Homes,Office,5.0,20.0,2.0,75.0,4.1,77.0,4.7,Low,8.55,Revit,Hauz Khas,65.0,0.25,71.0,2.05,2.35,0.23,40.0,4.45
+P037,Skyline Homes,Commercial,7.0,35.0,2.0,93.0,4.8,64.0,4.5,Medium,6.0,Vectorworks,Rajouri Garden,78.0,0.2,71.0,2.4,1.5,0.5,105.0,4.4
+P038,Classic Homes,Retail,9.0,24.0,5.0,76.0,4.8,50.0,4.6,Medium,6.0,Revit,Rohini,67.0,0.38,58.5,0.96,1.53,0.5,72.0,4.04
+P039,Eco Tower,Retail,8.0,22.0,6.0,95.0,4.9,54.0,4.7,Low,10.0,Revit,Saket,75.0,0.36,64.5,0.82,2.35,0.2,44.0,4.22
+P040,Classic Plaza,Office,7.0,31.0,1.0,86.0,4.7,77.0,4.8,High,9.0,Revit,Hauz Khas,72.0,0.23,74.5,4.7,1.2,0.44,124.0,4.45
+P041,Skyline Offices,Institutional,5.0,27.0,5.0,80.0,4.5,78.0,4.35,Medium,8.0,BIM 360,Nehru Place,60.0,0.19,69.0,0.9,1.45,0.38,81.0,4.62
+P042,Skyline Estates,Institutional,5.0,22.0,6.0,78.0,4.4,65.0,4.1,Medium,8.55,Revit,Karol Bagh,81.0,0.23,73.0,0.73,1.37,0.35,66.0,4.17
+P043,Green Tower,Office,7.0,20.0,4.0,85.0,4.1,68.0,3.6,Medium,8.0,ArchiCAD,Karol Bagh,79.0,0.35,73.5,1.02,1.2,0.38,60.0,4.17
+P044,Classic Tower,Institutional,5.0,22.0,4.0,91.0,4.9,64.88,4.4,Low,11.0,AutoCAD,Hauz Khas,76.0,0.23,70.44,1.23,2.2,0.18,44.0,4.45
+P045,Classic Complex,Cultural,5.0,24.0,4.0,80.0,5.0,52.0,3.6,Low,6.0,SketchUp,Rajouri Garden,66.0,0.21,59.0,1.25,1.8,0.33,48.0,4.4
+P046,Urban Homes,Retail,9.0,34.0,4.29,83.51,3.9,66.0,4.2,Low,6.0,Revit,Saket,84.0,0.26,75.0,0.91,2.1,0.33,68.0,4.22
+P047,Classic Villas,Office,7.0,33.0,4.0,94.0,4.0,64.88,4.3,Low,7.0,Vectorworks,Karol Bagh,72.0,0.21,68.44,1.0,2.15,0.29,66.0,4.17
+P048,Eco Homes,Retail,9.0,22.0,6.0,76.0,4.2,61.0,3.9,Low,6.0,Revit,Saket,63.0,0.41,62.0,0.7,1.95,0.33,44.0,4.22
+P049,Eco Estates,Residential,10.0,20.0,6.0,80.0,4.2,77.0,4.4,High,12.0,Vectorworks,Karol Bagh,63.0,0.5,70.0,0.7,1.1,0.33,80.0,4.17
+P050,Urban Villas,Cultural,10.0,24.0,3.0,85.0,5.0,79.0,3.5,High,5.0,ArchiCAD,Rohini,65.0,0.42,72.0,1.67,0.88,0.8,96.0,4.04
+P0051,Smart Retreat,Office,6.0,34.0,1.0,86.0,4.7,51.0,3.7,Low,10.0,ArchiCAD,Pitampura,70.0,0.18,60.5,4.7,1.85,0.2,68.0,4.38
+P0052,Sustainable Centre,Retail,10.0,26.0,5.0,82.0,4.5,77.0,4.3,High,10.0,SketchUp,Janakpuri,64.0,0.38,70.5,0.9,1.08,0.4,104.0,4.33
+P0053,Smart Park,Hospitality,5.0,31.0,7.0,77.0,4.8,71.0,4.5,Low,9.0,AutoCAD,Vasant Vihar,60.0,0.16,65.5,0.69,2.25,0.22,62.0,4.43
+P0054,Urban Centre,Office,7.0,27.0,5.0,75.0,4.34,72.0,4.35,Medium,8.55,Vectorworks,Janakpuri,67.0,0.26,69.5,0.87,1.45,0.35,81.0,4.33
+P0055,Urban Apartments,Cultural,7.0,28.57,1.0,77.0,3.8,54.0,4.0,Medium,10.0,Vectorworks,Vasant Vihar,80.0,0.25,67.0,3.8,1.33,0.3,85.71,4.43
+P0056,Timeless Apartments,Hospitality,10.0,22.0,1.0,79.0,4.8,64.88,3.8,High,12.0,AutoCAD,Defence Colony,71.0,0.45,67.94,4.8,0.95,0.33,88.0,3.97
+P0057,Elegant Apartments,Hospitality,7.0,33.0,7.0,89.0,4.3,50.0,4.35,Medium,7.0,BIM 360,Chanakyapuri,71.0,0.21,60.5,0.61,1.45,0.43,99.0,4.22
+P0058,Elegant Centre,Office,9.0,36.0,4.29,88.0,4.7,68.0,4.7,Low,7.0,Vectorworks,Shahdara,64.0,0.25,66.0,1.1,2.35,0.29,72.0,4.23
+P0059,Pinnacle Enclave,Commercial,7.0,23.0,4.29,77.0,4.8,79.0,4.0,High,6.0,ArchiCAD,Dwarka,72.61,0.3,75.805,1.12,1.0,0.67,92.0,4.3
+P0060,Timeless Park,Cultural,9.0,37.0,4.29,75.0,4.0,51.0,3.6,Low,9.0,SketchUp,Vasant Vihar,72.61,0.24,61.805,0.93,1.8,0.22,74.0,4.43
+P0061,Urban Hub,Office,6.0,27.0,7.0,79.0,3.7,70.0,4.9,Low,10.0,AutoCAD,Janakpuri,72.61,0.22,71.305,0.53,2.45,0.2,54.0,4.33
+P0062,Elegant Residences,Cultural,7.0,23.0,3.0,88.0,3.8,61.0,4.1,Medium,5.0,SketchUp,Shahdara,72.0,0.3,66.5,1.27,1.37,0.6,69.0,4.23
+P0063,Dynamic Apartments,Cultural,10.0,21.0,3.0,83.51,4.1,75.0,4.35,Medium,8.0,Vectorworks,New Friends Colony,79.0,0.48,77.0,1.37,1.45,0.38,63.0,4.58
+P0064,Elegant Retreat,Hospitality,7.0,25.0,1.0,83.0,4.7,55.0,4.8,Medium,11.0,Vectorworks,New Friends Colony,74.0,0.28,64.5,4.7,1.6,0.27,75.0,4.58
+P0065,Urban Hub,Retail,4.0,28.57,3.0,89.0,4.8,72.0,4.5,Medium,8.55,AutoCAD,Greater Kailash,62.0,0.14,67.0,1.6,1.5,0.35,85.71,4.2
+P0066,Dynamic Apartments,Cultural,6.0,28.57,3.0,89.0,3.5,53.0,4.6,Medium,5.0,ArchiCAD,Dwarka,82.0,0.21,67.5,1.17,1.53,0.6,85.71,4.3
+P0067,Pinnacle Centre,Institutional,8.0,37.0,1.0,84.0,4.3,72.0,3.8,High,9.0,Revit,Defence Colony,67.0,0.22,69.5,4.3,0.95,0.44,148.0,3.97
+P0068,Pinnacle Park,Hospitality,6.0,31.0,3.0,87.0,4.1,64.88,4.3,Low,8.0,AutoCAD,Janakpuri,79.0,0.19,71.94,1.37,2.15,0.25,62.0,4.33
+P0069,Pinnacle Enclave,Commercial,10.0,21.0,5.0,93.0,3.8,73.0,4.5,Low,9.0,Revit,Chanakyapuri,75.0,0.48,74.0,0.76,2.25,0.22,42.0,4.22
+P0070,Pinnacle Centre,Retail,8.0,29.0,2.0,81.0,4.34,76.0,3.8,Low,12.0,BIM 360,Chanakyapuri,72.0,0.28,74.0,2.17,1.9,0.17,58.0,4.22
+P0071,Elegant Enclave,Institutional,7.0,23.0,7.0,91.0,4.0,64.88,3.8,Low,7.0,Revit,Janakpuri,77.0,0.3,70.94,0.57,1.9,0.29,46.0,4.33
+P0072,Elegant Enclave,Institutional,10.0,33.0,2.0,94.0,4.9,80.0,5.0,Medium,8.0,ArchiCAD,Pitampura,69.0,0.3,74.5,2.45,1.67,0.38,99.0,4.38
+P0073,Pinnacle Residences,Commercial,5.0,28.57,1.0,78.0,4.0,55.0,4.3,Low,7.0,BIM 360,Defence Colony,78.0,0.18,66.5,4.0,2.15,0.29,57.14,3.97
+P0074,Sustainable Hub,Retail,7.0,34.0,4.0,79.0,4.3,73.0,3.9,High,12.0,Revit,Shahdara,76.0,0.21,74.5,1.08,0.98,0.33,136.0,4.23
+P0075,Smart Centre,Hospitality,4.0,27.0,7.0,81.0,4.6,54.0,5.0,High,5.0,BIM 360,Vasant Vihar,83.0,0.15,68.5,0.66,1.25,0.8,108.0,4.43
+P0076,Sustainable Retreat,Residential,7.0,33.0,1.0,87.0,4.0,69.0,4.9,Low,12.0,Revit,Pitampura,78.0,0.21,73.5,4.0,2.45,0.17,66.0,4.38
+P0077,Smart Retreat,Retail,7.0,27.0,4.0,89.0,5.0,51.0,4.3,Low,5.0,ArchiCAD,Vasant Vihar,85.0,0.26,68.0,1.25,2.15,0.4,54.0,4.43
+P0078,Sustainable Enclave,Commercial,5.0,28.57,2.0,83.51,4.9,64.88,4.8,High,8.0,Revit,Vasant Vihar,82.0,0.18,73.44,2.45,1.2,0.5,114.28,4.43
+P0079,Dynamic Residences,Institutional,5.0,35.0,4.29,78.0,3.9,71.0,3.8,High,8.0,Revit,Pitampura,85.0,0.14,78.0,0.91,0.95,0.5,140.0,4.38
+P0080,Elegant Hub,Hospitality,4.0,32.0,7.0,87.0,4.2,60.0,3.9,Medium,10.0,Revit,Greater Kailash,64.0,0.12,62.0,0.6,1.3,0.3,96.0,4.2
+P0081,Elegant Park,Retail,5.0,37.0,7.0,81.0,4.0,80.0,4.6,High,8.55,AutoCAD,New Friends Colony,72.61,0.14,76.305,0.57,1.15,0.47,148.0,4.58
+P0082,Timeless Enclave,Residential,8.0,34.0,6.0,93.0,3.9,65.0,4.8,Medium,10.0,AutoCAD,Vasant Vihar,80.0,0.24,72.5,0.65,1.6,0.3,102.0,4.43
+P0083,Pinnacle Enclave,Residential,5.0,40.0,5.0,76.0,3.6,65.0,4.8,Medium,9.0,AutoCAD,Pitampura,82.0,0.12,73.5,0.72,1.6,0.33,120.0,4.38
+P0084,Sustainable Apartments,Cultural,7.0,32.0,3.0,84.0,4.34,50.0,4.1,Medium,10.0,ArchiCAD,Pitampura,68.0,0.22,59.0,1.45,1.37,0.3,96.0,4.38
