@@ -1,0 +1,95 @@
+# Project Data Visualization: Design Efficiency and Innovation Focus
+
+This project provides an interactive data visualization dashboard to analyze and improve project outcomes with a specific focus on Design Efficiency and Innovation. Using Python, Pandas, Seaborn, Matplotlib, and Panel, the dashboard allows users to explore various aspects of project data, aiding in insightful decision-making.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Data Overview](#data-overview)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To get started with this project, you need Python installed. Then, follow the steps below to install the required packages.
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/project-data-visualization.git
+   cd project-data-visualization
+   ```
+
+2. **Set Up a Virtual Environment**
+
+   It's recommended to use a virtual environment:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install Required Packages**
+
+   Install the required packages using the `requirements.txt` file:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Ensure the `requirements.txt` includes:
+
+   ```plaintext
+   numpy
+   pandas
+   matplotlib
+   seaborn
+   panel
+   bokeh
+   ```
+
+## Usage
+
+1. **Prepare Your Data**
+
+   Ensure your `projects_data.csv` file is in the project directory. This file should contain relevant columns such as `Design Efficiency`, `Innovation Score`, `Cost Efficiency (%)`, and other relevant metrics.
+
+2. **Run the Panel Dashboard**
+
+   Start the dashboard using Panel:
+
+   ```bash
+   panel serve dashboard.py --show
+   ```
+
+   Replace `dashboard.py` with your script's filename.
+
+3. **Interact with the Dashboard**
+
+   A browser window will open with the interactive dashboard. Use the dropdown menus to select and explore different visualizations focusing on Design Efficiency and Innovation.
+
+## Features
+
+- **Design Efficiency Analysis**: Visualize key metrics that affect design efficiency, such as project type, complexity levels, and software used.
+- **Innovation Score Analysis**: Explore how various factors like team size, design phase duration, and neighborhood influence innovation.
+- **Comparative Analysis**: Use scatter plots, joint plots, and heatmaps to compare design efficiency against innovation scores, cost efficiency, and client feedback.
+- **Interactive Controls**: Easily switch between different visualization categories and specific graphs for detailed analysis.
+
+## Data Overview
+
+- **Design Efficiency**: Measures how effectively design resources are utilized. Key metrics include `Design Phase Duration (weeks)` and `Cost Efficiency (%)`.
+- **Innovation**: Evaluates the novelty and creativity in project execution. Key metrics include `Innovation Score`, `Sustainability Index`, and `Innovation per Revision`.
+- **Other Metrics**: `Client Feedback Score`, `Team Size`, and `Design Software Used` help provide a holistic view of project performance.
+
+## Contributing
+
+We welcome contributions! Please follow the steps below to contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch-name`.
+3. Make your changes.
+4. Commit your changes: `git commit -m 'Add some feature'`.
+5. Push to the branch: `git push origin feature-branch-name`.
+6. Submit a pull request.
