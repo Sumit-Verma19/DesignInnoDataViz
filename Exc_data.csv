@@ -1,0 +1,51 @@
+Project ID,Project Name,Project Type,Design Phase Duration (weeks),Total Project Duration (weeks),Design Revision Count,Cost Efficiency (%),Innovation Score,Use of Sustainable Materials (%),Client Feedback Score,Design Complexity Level,Team Size,Design Software Used,Neighborhood,Use of Local Materials (%)
+P001,Urban Villas,Office,8,27,2,81,4.7,53,4.9,Medium,9,Vectorworks,Green Park,75
+P002,Modern Offices,Retail,6,33,7,75,4.7,50,4.9,Medium,10,Vectorworks,Saket,84
+P003,Urban Tower,Hospitality,10,27,7,75,3.7,53,4.1,High,9,SketchUp,Rajouri Garden,66
+P004,Eco Plaza,Office,8,40,6,94,4.3,50,3.5,Medium,11,Revit,Karol Bagh,72
+P005,Urban Tower,Cultural,4,35,7,87,4.5,63,4.9,High,7,AutoCAD,Rajouri Garden,
+P006,Classic Plaza,Hospitality,10,32,3,83,4.8,70,4.1,Low,8,SketchUp,Saket,69
+P007,Skyline Complex,Hospitality,,37,1,77,4,65,4.9,Low,6,ArchiCAD,Nehru Place,85
+P008,Classic Estates,Office,7,34,7,81,3.8,69,4.9,Low,12,SketchUp,Karol Bagh,66
+P009,Classic Plaza,Commercial,4,40,7,,4.6,,4.8,Low,7,SketchUp,Rajouri Garden,73
+P010,Green Homes,Cultural,7,32,,82,4.7,57,,High,,Revit,Green Park,85
+P011,Urban Offices,Office,,,2,83,4,56,4.1,Medium,10,ArchiCAD,Hauz Khas,64
+P012,Skyline Homes,Cultural,5,34,4,79,3.6,52,4.8,Low,5,SketchUp,Lajpat Nagar,62
+P013,Modern Plaza,Cultural,5,32,5,75,,66,4,Medium,9,AutoCAD,Hauz Khas,82
+P014,Classic Tower,Hospitality,4,20,3,93,,50,3.8,High,10,AutoCAD,Saket,70
+P015,Luxury Estates,Retail,5,26,,84,4.3,,4.3,High,8,Vectorworks,Connaught Place,
+P016,Luxury Estates,Cultural,8,28,7,86,4.8,61,4.9,High,9,ArchiCAD,Lajpat Nagar,77
+P017,Eco Tower,Institutional,5,20,1,89,4.5,76,4.5,Low,11,ArchiCAD,Rohini,74
+P018,Modern Villas,Hospitality,7,31,4,83,4.6,68,4.4,Medium,5,Vectorworks,Green Park,71
+P019,Skyline Villas,Commercial,7,27,5,94,3.8,71,3.6,Medium,10,SketchUp,Rohini,68
+P020,Classic Villas,Retail,10,30,4,91,4.3,72,4.4,Medium,10,ArchiCAD,Karol Bagh,69
+P021,Classic Tower,Institutional,7,,6,,4.5,71,5,High,10,AutoCAD,Lajpat Nagar,85
+P022,Urban Plaza,Institutional,10,36,5,94,3.8,63,3.7,Low,8,AutoCAD,Rohini,
+P023,Green Villas,Commercial,7,27,7,86,3.8,79,,High,9,Revit,Rohini,76
+P024,Eco Plaza,Retail,8,22,7,81,5,,,High,8,ArchiCAD,Rajouri Garden,65
+P025,Classic Plaza,Hospitality,10,22,,76,4.3,55,,Medium,12,SketchUp,Hauz Khas,66
+P026,Green Estates,Residential,6,20,7,77,3.9,62,,High,6,Vectorworks,Rajouri Garden,73
+P027,Luxury Offices,Retail,9,24,3,91,,68,4.6,Medium,6,Vectorworks,Lajpat Nagar,
+P028,Modern Homes,Commercial,,29,5,79,4.9,71,4,Low,12,SketchUp,Lajpat Nagar,67
+P029,Eco Plaza,Institutional,7,26,4,91,4.3,57,3.9,Medium,,BIM 360,Saket,69
+P030,Luxury Homes,Hospitality,5,28,5,91,4.8,76,4.7,Low,11,Revit,Rajouri Garden,68
+P031,Modern Homes,Retail,7,26,7,,3.8,76,4.7,Medium,8,Vectorworks,Vasant Kunj,
+P032,Luxury Plaza,Residential,5,28,3,76,3.9,51,4.8,High,5,ArchiCAD,Hauz Khas,85
+P033,Eco Tower,Residential,,27,3,76,4.6,70,4.9,High,10,Revit,Lajpat Nagar,61
+P034,Skyline Villas,Cultural,,,6,79,,79,4.3,Low,10,ArchiCAD,Saket,
+P035,Green Complex,Cultural,9,21,4,75,4.8,,4.3,Low,9,AutoCAD,Rajouri Garden,64
+P036,Modern Homes,Office,5,20,2,75,4.1,77,4.7,Low,,Revit,Hauz Khas,65
+P037,Skyline Homes,Commercial,7,35,2,93,4.8,64,4.5,Medium,6,Vectorworks,Rajouri Garden,78
+P038,Classic Homes,Retail,9,24,5,76,4.8,50,4.6,Medium,6,Revit,Rohini,67
+P039,Eco Tower,Retail,8,22,6,95,4.9,54,4.7,Low,10,Revit,Saket,75
+P040,Classic Plaza,Office,,31,1,86,4.7,77,4.8,High,9,Revit,Hauz Khas,72
+P041,Skyline Offices,Institutional,5,27,5,80,4.5,78,,Medium,8,BIM 360,Nehru Place,60
+P042,Skyline Estates,Institutional,5,22,6,78,4.4,65,4.1,Medium,,Revit,Karol Bagh,81
+P043,Green Tower,Office,7,20,4,85,4.1,68,3.6,Medium,8,ArchiCAD,Karol Bagh,79
+P044,Classic Tower,Institutional,5,22,4,91,4.9,,4.4,Low,11,AutoCAD,Hauz Khas,76
+P045,Classic Complex,Cultural,5,24,4,80,5,52,3.6,Low,6,SketchUp,Rajouri Garden,66
+P046,Urban Homes,Retail,9,34,,,3.9,66,4.2,Low,6,Revit,Saket,84
+P047,Classic Villas,Office,7,33,4,94,4,,4.3,Low,7,Vectorworks,Karol Bagh,72
+P048,Eco Homes,Retail,9,22,6,76,4.2,61,3.9,Low,6,Revit,Saket,63
+P049,Eco Estates,Residential,10,20,6,80,4.2,77,4.4,High,12,Vectorworks,Karol Bagh,63
+P050,Urban Villas,Cultural,10,24,3,85,5,79,3.5,High,5,ArchiCAD,Rohini,65

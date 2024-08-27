@@ -1,0 +1,35 @@
+Project ID,Project Name,Project Type,Design Phase Duration (weeks),Total Project Duration (weeks),Design Revision Count,Cost Efficiency (%),Innovation Score,Use of Sustainable Materials (%),Client Feedback Score,Design Complexity Level,Team Size,Design Software Used,Neighborhood,Use of Local Materials (%)
+P0051,Smart Retreat,Office,6,34,1,86,4.7,51,3.7,Low,10,ArchiCAD,Pitampura,70
+P0052,Sustainable Centre,Retail,10,26,5,82,4.5,77,4.3,High,10,SketchUp,Janakpuri,64
+P0053,Smart Park,Hospitality,5,31,7,77,4.8,71,4.5,Low,9,AutoCAD,Vasant Vihar,60
+P0054,Urban Centre,Office,7,27,5,75,,72,,Medium,,Vectorworks,Janakpuri,67
+P0055,Urban Apartments,Cultural,7,,1,77,3.8,54,4,Medium,10,Vectorworks,Vasant Vihar,80
+P0056,Timeless Apartments,Hospitality,10,22,1,79,4.8,,3.8,High,12,AutoCAD,Defence Colony,71
+P0057,Elegant Apartments,Hospitality,,33,7,89,4.3,50,,Medium,7,BIM 360,Chanakyapuri,71
+P0058,Elegant Centre,Office,9,36,,88,4.7,68,4.7,Low,7,Vectorworks,Shahdara,64
+P0059,Pinnacle Enclave,Commercial,,23,,77,4.8,79,4,High,6,ArchiCAD,Dwarka,
+P0060,Timeless Park,Cultural,9,37,,75,4,51,3.6,Low,9,SketchUp,Vasant Vihar,
+P0061,Urban Hub,Office,6,27,7,79,3.7,70,4.9,Low,10,AutoCAD,Janakpuri,
+P0062,Elegant Residences,Cultural,7,23,3,88,3.8,61,4.1,Medium,5,SketchUp,Shahdara,72
+P0063,Dynamic Apartments,Cultural,10,21,3,,4.1,75,,Medium,8,Vectorworks,New Friends Colony,79
+P0064,Elegant Retreat,Hospitality,7,25,1,83,4.7,55,4.8,Medium,11,Vectorworks,New Friends Colony,74
+P0065,Urban Hub,Retail,4,,3,89,4.8,72,4.5,Medium,,AutoCAD,Greater Kailash,62
+P0066,Dynamic Apartments,Cultural,6,,3,89,3.5,53,4.6,Medium,5,ArchiCAD,Dwarka,82
+P0067,Pinnacle Centre,Institutional,8,37,1,84,4.3,72,3.8,High,9,Revit,Defence Colony,67
+P0068,Pinnacle Park,Hospitality,6,31,3,87,4.1,,4.3,Low,8,AutoCAD,Janakpuri,79
+P0069,Pinnacle Enclave,Commercial,10,21,5,93,3.8,73,4.5,Low,9,Revit,Chanakyapuri,75
+P0070,Pinnacle Centre,Retail,8,29,2,81,,76,3.8,Low,12,BIM 360,Chanakyapuri,72
+P0071,Elegant Enclave,Institutional,,23,7,91,4,,3.8,Low,7,Revit,Janakpuri,77
+P0072,Elegant Enclave,Institutional,10,33,2,94,4.9,80,5,Medium,8,ArchiCAD,Pitampura,69
+P0073,Pinnacle Residences,Commercial,5,,1,78,4,55,4.3,Low,7,BIM 360,Defence Colony,78
+P0074,Sustainable Hub,Retail,7,34,4,79,4.3,73,3.9,High,12,Revit,Shahdara,76
+P0075,Smart Centre,Hospitality,4,27,7,81,4.6,54,5,High,5,BIM 360,Vasant Vihar,83
+P0076,Sustainable Retreat,Residential,7,33,1,87,4,69,4.9,Low,12,Revit,Pitampura,78
+P0077,Smart Retreat,Retail,,27,4,89,5,51,4.3,Low,5,ArchiCAD,Vasant Vihar,85
+P0078,Sustainable Enclave,Commercial,5,,2,,4.9,,4.8,High,8,Revit,Vasant Vihar,82
+P0079,Dynamic Residences,Institutional,5,35,,78,3.9,71,3.8,High,8,Revit,Pitampura,85
+P0080,Elegant Hub,Hospitality,4,32,7,87,4.2,60,3.9,Medium,10,Revit,Greater Kailash,64
+P0081,Elegant Park,Retail,5,37,7,81,4,80,4.6,High,,AutoCAD,New Friends Colony,
+P0082,Timeless Enclave,Residential,8,34,6,93,3.9,65,4.8,Medium,10,AutoCAD,Vasant Vihar,80
+P0083,Pinnacle Enclave,Residential,5,40,5,76,3.6,65,4.8,Medium,9,AutoCAD,Pitampura,82
+P0084,Sustainable Apartments,Cultural,7,32,3,84,,50,4.1,Medium,10,ArchiCAD,Pitampura,68
