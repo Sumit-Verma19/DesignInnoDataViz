@@ -1,8 +1,8 @@
-# Project Data Visualization: Design Efficiency and Innovation Focus
+Project Data Visualization: Design Efficiency and Innovation Focus
 
 This project provides an interactive data visualization dashboard to analyze and improve project outcomes with a specific focus on Design Efficiency and Innovation. Using Python, Pandas, Seaborn, Matplotlib, and Panel, the dashboard allows users to explore various aspects of project data, aiding in insightful decision-making.
 
-## Table of Contents
+Table of Contents
 
 - [Installation]
 - [Usage]
